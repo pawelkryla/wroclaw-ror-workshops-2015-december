@@ -7,8 +7,6 @@ Rails.application.routes.draw do
     get :subjects
   end
 
-  namespace :report do
-    get :subjects
-  end
+  get 'report/subjects', to: 'reports#subjects'
 
 end
