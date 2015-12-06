@@ -1,4 +1,7 @@
 [![Build Status](https://travis-ci.org/pawelkryla/wroclaw-ror-workshops-2015-december.svg?branch=master)](https://travis-ci.org/pawelkryla/wroclaw-ror-workshops-2015-december)
+
+App works on heroku: https://afternoon-tor-6672.herokuapp.com/
+
 RoR Workshops
 ================
 
